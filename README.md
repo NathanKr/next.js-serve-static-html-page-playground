@@ -1,0 +1,1 @@
+# next.js-serve-static-html-page-playground
