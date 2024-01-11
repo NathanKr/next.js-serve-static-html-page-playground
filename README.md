@@ -11,9 +11,20 @@
 <li>How to handle post header (top compoent) and bottom (icons)</li>
 </ul>
 
+<h2>Answers</h2>
+<h3>How to make next.js load pre defined html page</h3>
+This is done using rewrites in next.config.js
+
 
 <h2>Limitations</h2>
 you can not rewrite a page that exist under pages directory
+
+
+
+<h2>Points of interest</h2>
+<ul>
+<li>using page speed insight on vercel for tab /about which serves 1.html the performance score is 1 and TBT is 0 => excelent results in terms of perforamnce</li>
+</ul>
 
 <h2>References</h2>
 <ul>
