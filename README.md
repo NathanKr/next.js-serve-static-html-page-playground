@@ -23,7 +23,9 @@ you can not rewrite a page that exist under pages directory
 
 <h2>Points of interest</h2>
 <ul>
-<li>using page speed insight on vercel for tab /about which serves 1.html the performance score is 1 and TBT is 0 => excelent results in terms of perforamnce</li>
+<li>Using page speed insight on vercel for tab /about which serves 1.html the performance score is 1 and TBT is 0 => excelent results in terms of perforamnce</li>
+<li>Using home page which is next.js page was 30-50 ms so next.js overhead is realy small !!!!!</li>
+<li>Using www.nathankrasney.com/quiz is about x5 compare to home page here <strong>may be because of gtag !!!</strong> worth inestigating !!!</li>
 </ul>
 
 <h2>References</h2>
